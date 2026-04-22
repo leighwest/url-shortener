@@ -8,9 +8,14 @@ A redirect endpoint accepts the shortened URI and returns the long form equivale
 - Maven
 
 ##  Running
+### Windows
   ```
-  bash.\mvnw.cmd spring-boot:run
+.\mvnw.cmd spring-boot:run
   ```
+### Mac/Linux
+```
+./mvnw spring-boot:run
+```
   Or run UrlShortenerApplication directly from IntelliJ.
   API
   
