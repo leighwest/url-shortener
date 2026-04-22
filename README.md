@@ -1,7 +1,7 @@
 # URL Shortener
 This Java 25 Spring Boot application exposes a RESTful endpoint which converts a long URL into a short, random 6 character code.
 
-A redirect endpoint accepts the shortened URI and returns the long form equivalent.
+A redirect endpoint accepts the short code and returns the original URL.
 
 ## Requirements 
 - Java 25
