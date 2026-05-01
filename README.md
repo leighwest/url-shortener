@@ -17,7 +17,6 @@ A redirect endpoint accepts the short code and returns the original URL.
 ./mvnw spring-boot:run
 ```
   Or run UrlShortenerApplication directly from IntelliJ.
-  API
   
 ## API
 
